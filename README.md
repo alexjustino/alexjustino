@@ -1,16 +1,100 @@
-## Hi there 👋
+# Alex Justino
 
-<!--
-**alexjustino/alexjustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems Engineer | Digital Substations | OT Cybersecurity | Industrial Software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Systems Engineer specialized in Digital Substations, Industrial Networks, and OT Cybersecurity.
+
+With more than 17 years of experience in Protection, Control and Automation systems, I work with engineering, commissioning and cybersecurity assessment of critical infrastructure.
+
+My focus is the intersection between:
+
+• Power Systems Engineering  
+• Industrial Cybersecurity  
+• Software Development for Engineering Automation  
+
+---
+
+## Technical Areas
+
+Digital Substations (IEC 61850)
+
+OT Cybersecurity
+
+Industrial Networks
+
+SCADA Systems
+
+Engineering Automation
+
+---
+
+## Technologies
+
+Programming
+
+C#  
+Python  
+C++  
+PowerShell  
+
+Frameworks
+
+.NET  
+WPF  
+MVVM  
+
+Protocols
+
+IEC 61850  
+MMS  
+GOOSE  
+Sampled Values  
+DNP3  
+Modbus  
+
+Networking
+
+PRP  
+HSR  
+PTP  
+SNMP  
+
+---
+
+## Main Projects
+
+IEC61850Suite
+
+Platform for engineering analysis and configuration of IEC 61850 systems.
+
+Modules
+
+SCT Configurator  
+GOOSE Map  
+Network Assessment  
+FAT Simulator  
+DSA Database Auditor  
+
+---
+
+## Research Areas
+
+Digital Substations
+
+Industrial Cybersecurity
+
+Network Monitoring Systems
+
+Engineering Automation
+
+---
+
+## Engineering Philosophy
+
+Technology should simplify complex engineering tasks and improve the security of critical infrastructure.
+
+My goal is to bridge Power Systems Engineering and Software Development.
