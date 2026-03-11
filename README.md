@@ -1,3 +1,7 @@
+![IEC 61850](https://img.shields.io/badge/IEC-61850-blue)
+![OT Cybersecurity](https://img.shields.io/badge/OT-Cybersecurity-red)
+![Industrial Automation](https://img.shields.io/badge/Industrial-Automation-green)
+
 # Alex Justino
 
 Senior Systems Engineer | Digital Substations | OT Cybersecurity | Industrial Software
@@ -98,3 +102,10 @@ Engineering Automation
 Technology should simplify complex engineering tasks and improve the security of critical infrastructure.
 
 My goal is to bridge Power Systems Engineering and Software Development.
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexjustino&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjustino&layout=compact&theme=dark)
