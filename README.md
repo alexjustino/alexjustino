@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://alexjustino.github.io"><img src="https://img.shields.io/badge/Portfolio-alexjustino.github.io-22D3EE?style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="mailto:justino_alex@outlook.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
   <a href="https://github.com/alexjustino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Based%20in%20Brazil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -112,11 +113,12 @@ small, traceable increments · nothing is done without its docs.**
 ## 🤝 Connect
 
 <p align="center">
+  <a href="https://alexjustino.github.io"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-22D3EE?style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="mailto:justino_alex@outlook.com"><img src="https://img.shields.io/badge/Email%20me-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
   <a href="https://github.com/alexjustino"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><sub>💼 LinkedIn &amp; professional portfolio site — <b>coming next</b>.</sub></p>
+<p align="center"><sub>🌐 <a href="https://alexjustino.github.io">alexjustino.github.io</a> · 💼 LinkedIn — <b>coming soon</b>.</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
