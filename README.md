@@ -89,13 +89,14 @@ Not just specs and drawings: I ship the code — **FastAPI + React + native prot
 
 ---
 
-## 🎮 Contribution World
+## 📊 Contribution Activity
 
-<p align="center">
-  <img src="assets/mario-world.svg" width="100%" alt="Super Alex World — 928 contributions in the last year"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img src="assets/contributions-light.svg" width="100%" alt="Contributions in the last year — weekly totals, public + anonymized private"/>
+</picture>
 
-<p align="center"><i>Every coin is a commit. 🍄 The counter tracks my last-year contributions.</i></p>
+<p align="center"><sub>Self-hosted chart, rebuilt daily from the GitHub GraphQL API by a scheduled Action — no third-party widgets.</sub></p>
 
 ---
 
