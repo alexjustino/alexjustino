@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="1825 contributions in the last year">
+  <title>1825 contributions in the last year</title>
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .hero  { font: 700 44px ui-monospace, 'SFMono-Regular', Consolas, monospace; fill: #0AA2C0; }
+    .hero-l { font-size: 14px; fill: #9198A1; }
+    .stat-v { font: 600 20px ui-monospace, 'SFMono-Regular', Consolas, monospace; fill: #E6EDF3; }
+    .stat-l { font-size: 11px; fill: #6E7681; }
+    .muted { font-size: 10px; fill: #6E7681; }
+    .peak  { font: 600 11px ui-monospace, 'SFMono-Regular', Consolas, monospace; fill: #E6EDF3; }
+  </style>
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze"/>
+    <text class="hero" x="24" y="56">1,825</text>
+    <text class="hero-l" x="24" y="78">contributions in the last year · public + anonymized private</text>
+    
+    <g transform="translate(502,34)">
+      <text class="stat-v" text-anchor="end" x="98">118</text>
+      <text class="stat-l" text-anchor="end" x="98" y="20">best day</text>
+    </g>
+    <g transform="translate(620,34)">
+      <text class="stat-v" text-anchor="end" x="98">4.9</text>
+      <text class="stat-l" text-anchor="end" x="98" y="20">daily avg</text>
+    </g>
+    <g transform="translate(738,34)">
+      <text class="stat-v" text-anchor="end" x="98">20d</text>
+      <text class="stat-l" text-anchor="end" x="98" y="20">longest streak</text>
+    </g>
+    <line x1="24" y1="182" x2="856" y2="182" stroke="rgba(230,237,243,0.14)" stroke-width="1"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <path d="M465.9,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
+    
+    <path d="M497.3,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <path d="M701.4,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
+    <path d="M717.1,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
+    <path d="M732.8,182 v-5.4016393442622945 q0,-3 3,-3 h5 q3,0 3,3 v5.4016393442622945 Z" fill="#0AA2C0"/>
+    <path d="M748.5,182 v-38.67213114754099 q0,-3 3,-3 h5 q3,0 3,3 v38.67213114754099 Z" fill="#0AA2C0"/>
+    <path d="M764.2,182 v-27.245901639344265 q0,-3 3,-3 h5 q3,0 3,3 v27.245901639344265 Z" fill="#0AA2C0"/>
+    <path d="M779.9,182 v-51.94672131147541 q0,-3 3,-3 h5 q3,0 3,3 v51.94672131147541 Z" fill="#0AA2C0"/>
+    <path d="M795.6,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
+    <path d="M811.3,182 v-62.196721311475414 q0,-3 3,-3 h5 q3,0 3,3 v62.196721311475414 Z" fill="#0AA2C0"/>
+    <path d="M827.0,182 v-79 q0,-3 3,-3 h5 q3,0 3,3 v79 Z" fill="#0AA2C0"/>
+    <path d="M842.7,182 v-13.803278688524589 q0,-3 3,-3 h5 q3,0 3,3 v13.803278688524589 Z" fill="#0AA2C0"/>
+    <text class="peak" x="832.5" y="94" text-anchor="end">488</text>
+    
+    
+    <text x="55.4" y="200" class="muted">Sep</text>
+    
+    
+    
+    <text x="118.2" y="200" class="muted">Oct</text>
+    
+    
+    
+    <text x="181.0" y="200" class="muted">Nov</text>
+    
+    
+    
+    
+    <text x="259.5" y="200" class="muted">Dec</text>
+    
+    
+    
+    <text x="322.3" y="200" class="muted">Jan</text>
+    
+    
+    
+    <text x="385.1" y="200" class="muted">Feb</text>
+    
+    
+    
+    <text x="447.8" y="200" class="muted">Mar</text>
+    
+    
+    
+    
+    <text x="526.3" y="200" class="muted">Apr</text>
+    
+    
+    
+    <text x="589.1" y="200" class="muted">May</text>
+    
+    
+    
+    
+    <text x="667.6" y="200" class="muted">Jun</text>
+    
+    
+    
+    <text x="730.4" y="200" class="muted">Jul</text>
+    
+    
+    
+    <text x="793.2" y="200" class="muted">Aug</text>
+    
+    
+    
+    <text class="muted" x="856" y="78" text-anchor="end">weekly totals · auto-updated · 2026-08-29</text>
+  </g>
+</svg>
