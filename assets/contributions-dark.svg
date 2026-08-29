@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="1825 contributions in the last year">
-  <title>1825 contributions in the last year</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="1827 contributions in the last year">
+  <title>1827 contributions in the last year</title>
   <style>
     text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
     .hero  { font: 700 44px ui-monospace, 'SFMono-Regular', Consolas, monospace; fill: #0AA2C0; }
@@ -11,7 +11,7 @@
   </style>
   <g>
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze"/>
-    <text class="hero" x="24" y="56">1,825</text>
+    <text class="hero" x="24" y="56">1,827</text>
     <text class="hero-l" x="24" y="78">contributions in the last year · public + anonymized private</text>
     
     <g transform="translate(502,34)">
@@ -79,7 +79,7 @@
     <path d="M795.6,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
     <path d="M811.3,182 v-62.196721311475414 q0,-3 3,-3 h5 q3,0 3,3 v62.196721311475414 Z" fill="#0AA2C0"/>
     <path d="M827.0,182 v-79 q0,-3 3,-3 h5 q3,0 3,3 v79 Z" fill="#0AA2C0"/>
-    <path d="M842.7,182 v-13.803278688524589 q0,-3 3,-3 h5 q3,0 3,3 v13.803278688524589 Z" fill="#0AA2C0"/>
+    <path d="M842.7,182 v-14.139344262295083 q0,-3 3,-3 h5 q3,0 3,3 v14.139344262295083 Z" fill="#0AA2C0"/>
     <text class="peak" x="832.5" y="94" text-anchor="end">488</text>
     
     
