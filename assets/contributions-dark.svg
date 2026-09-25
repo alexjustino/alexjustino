@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="2635 contributions in the last year">
-  <title>2635 contributions in the last year</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220" role="img" aria-label="2642 contributions in the last year">
+  <title>2642 contributions in the last year</title>
   <style>
     text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
     .hero  { font: 700 44px ui-monospace, 'SFMono-Regular', Consolas, monospace; fill: #0AA2C0; }
@@ -11,7 +11,7 @@
   </style>
   <g>
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze"/>
-    <text class="hero" x="24" y="56">2,635</text>
+    <text class="hero" x="24" y="56">2,642</text>
     <text class="hero-l" x="24" y="78">contributions in the last year · public + anonymized private</text>
     
     <g transform="translate(502,34)">
@@ -134,6 +134,6 @@
     <text x="808.9" y="200" class="muted">Sep</text>
     
     
-    <text class="muted" x="856" y="78" text-anchor="end">weekly totals · auto-updated · 2026-09-24</text>
+    <text class="muted" x="856" y="78" text-anchor="end">weekly totals · auto-updated · 2026-09-25</text>
   </g>
 </svg>
