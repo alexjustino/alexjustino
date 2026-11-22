@@ -19,7 +19,7 @@
       <text class="stat-l" text-anchor="end" x="98" y="20">best day</text>
     </g>
     <g transform="translate(620,34)">
-      <text class="stat-v" text-anchor="end" x="98">13.6</text>
+      <text class="stat-v" text-anchor="end" x="98">13.8</text>
       <text class="stat-l" text-anchor="end" x="98" y="20">daily avg</text>
     </g>
     <g transform="translate(738,34)">
@@ -42,11 +42,9 @@
     
     
     
+    <path d="M261.8,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
     
-    <path d="M277.5,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
-    
-    <path d="M308.9,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
-    
+    <path d="M293.2,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
     
     
     
@@ -58,82 +56,84 @@
     
     
     
+    
+    <path d="M497.3,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
     <path d="M513.0,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
-    <path d="M528.7,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
-    <path d="M544.4,182 v-3.710310965630115 q0,-3 3,-3 h5 q3,0 3,3 v3.710310965630115 Z" fill="#0AA2C0"/>
-    <path d="M560.1,182 v-30.283142389525366 q0,-3 3,-3 h5 q3,0 3,3 v30.283142389525366 Z" fill="#0AA2C0"/>
-    <path d="M575.8,182 v-21.157119476268413 q0,-3 3,-3 h5 q3,0 3,3 v21.157119476268413 Z" fill="#0AA2C0"/>
-    <path d="M591.5,182 v-40.885433715220955 q0,-3 3,-3 h5 q3,0 3,3 v40.885433715220955 Z" fill="#0AA2C0"/>
-    <path d="M607.2,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
-    <path d="M622.9,182 v-49.07201309328969 q0,-3 3,-3 h5 q3,0 3,3 v49.07201309328969 Z" fill="#0AA2C0"/>
-    <path d="M638.6,182 v-62.49263502454993 q0,-3 3,-3 h5 q3,0 3,3 v62.49263502454993 Z" fill="#0AA2C0"/>
-    <path d="M654.3,182 v-11.225859247135842 q0,-3 3,-3 h5 q3,0 3,3 v11.225859247135842 Z" fill="#0AA2C0"/>
-    <path d="M670.0,182 v-45.58265139116203 q0,-3 3,-3 h5 q3,0 3,3 v45.58265139116203 Z" fill="#0AA2C0"/>
-    <path d="M685.7,182 v-32.833060556464815 q0,-3 3,-3 h5 q3,0 3,3 v32.833060556464815 Z" fill="#0AA2C0"/>
-    <path d="M701.4,182 v-22.633387888707034 q0,-3 3,-3 h5 q3,0 3,3 v22.633387888707034 Z" fill="#0AA2C0"/>
-    <path d="M717.1,182 v-8.273322422258591 q0,-3 3,-3 h5 q3,0 3,3 v8.273322422258591 Z" fill="#0AA2C0"/>
-    <path d="M732.8,182 v-29.88052373158756 q0,-3 3,-3 h5 q3,0 3,3 v29.88052373158756 Z" fill="#0AA2C0"/>
-    <path d="M748.5,182 v-24.646481178396073 q0,-3 3,-3 h5 q3,0 3,3 v24.646481178396073 Z" fill="#0AA2C0"/>
-    <path d="M764.2,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
-    <path d="M779.9,182 v-34.98036006546645 q0,-3 3,-3 h5 q3,0 3,3 v34.98036006546645 Z" fill="#0AA2C0"/>
-    <path d="M795.6,182 v-52.42716857610474 q0,-3 3,-3 h5 q3,0 3,3 v52.42716857610474 Z" fill="#0AA2C0"/>
-    <path d="M811.3,182 v-79 q0,-3 3,-3 h5 q3,0 3,3 v79 Z" fill="#0AA2C0"/>
-    <path d="M827.0,182 v-48.53518821603928 q0,-3 3,-3 h5 q3,0 3,3 v48.53518821603928 Z" fill="#0AA2C0"/>
-    <path d="M842.7,182 v-17.130932896890343 q0,-3 3,-3 h5 q3,0 3,3 v17.130932896890343 Z" fill="#0AA2C0"/>
-    <text class="peak" x="816.8" y="94" text-anchor="end">611</text>
+    <path d="M528.7,182 v-3.710310965630115 q0,-3 3,-3 h5 q3,0 3,3 v3.710310965630115 Z" fill="#0AA2C0"/>
+    <path d="M544.4,182 v-30.283142389525366 q0,-3 3,-3 h5 q3,0 3,3 v30.283142389525366 Z" fill="#0AA2C0"/>
+    <path d="M560.1,182 v-21.157119476268413 q0,-3 3,-3 h5 q3,0 3,3 v21.157119476268413 Z" fill="#0AA2C0"/>
+    <path d="M575.8,182 v-40.885433715220955 q0,-3 3,-3 h5 q3,0 3,3 v40.885433715220955 Z" fill="#0AA2C0"/>
+    <path d="M591.5,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
+    <path d="M607.2,182 v-49.07201309328969 q0,-3 3,-3 h5 q3,0 3,3 v49.07201309328969 Z" fill="#0AA2C0"/>
+    <path d="M622.9,182 v-62.49263502454993 q0,-3 3,-3 h5 q3,0 3,3 v62.49263502454993 Z" fill="#0AA2C0"/>
+    <path d="M638.6,182 v-11.225859247135842 q0,-3 3,-3 h5 q3,0 3,3 v11.225859247135842 Z" fill="#0AA2C0"/>
+    <path d="M654.3,182 v-45.58265139116203 q0,-3 3,-3 h5 q3,0 3,3 v45.58265139116203 Z" fill="#0AA2C0"/>
+    <path d="M670.0,182 v-32.833060556464815 q0,-3 3,-3 h5 q3,0 3,3 v32.833060556464815 Z" fill="#0AA2C0"/>
+    <path d="M685.7,182 v-22.633387888707034 q0,-3 3,-3 h5 q3,0 3,3 v22.633387888707034 Z" fill="#0AA2C0"/>
+    <path d="M701.4,182 v-8.273322422258591 q0,-3 3,-3 h5 q3,0 3,3 v8.273322422258591 Z" fill="#0AA2C0"/>
+    <path d="M717.1,182 v-29.88052373158756 q0,-3 3,-3 h5 q3,0 3,3 v29.88052373158756 Z" fill="#0AA2C0"/>
+    <path d="M732.8,182 v-24.646481178396073 q0,-3 3,-3 h5 q3,0 3,3 v24.646481178396073 Z" fill="#0AA2C0"/>
+    <path d="M748.5,182 v-2.99 h11 v2.99 Z" fill="#0AA2C0"/>
+    <path d="M764.2,182 v-34.98036006546645 q0,-3 3,-3 h5 q3,0 3,3 v34.98036006546645 Z" fill="#0AA2C0"/>
+    <path d="M779.9,182 v-52.42716857610474 q0,-3 3,-3 h5 q3,0 3,3 v52.42716857610474 Z" fill="#0AA2C0"/>
+    <path d="M795.6,182 v-79 q0,-3 3,-3 h5 q3,0 3,3 v79 Z" fill="#0AA2C0"/>
+    <path d="M811.3,182 v-48.53518821603928 q0,-3 3,-3 h5 q3,0 3,3 v48.53518821603928 Z" fill="#0AA2C0"/>
+    <path d="M827.0,182 v-17.130932896890343 q0,-3 3,-3 h5 q3,0 3,3 v17.130932896890343 Z" fill="#0AA2C0"/>
+    
+    <text class="peak" x="801.1" y="94" text-anchor="end">611</text>
+    
+    
+    <text x="55.4" y="200" class="muted">Dec</text>
     
     
     
-    <text x="71.1" y="200" class="muted">Dec</text>
+    <text x="118.2" y="200" class="muted">Jan</text>
     
     
     
-    <text x="133.9" y="200" class="muted">Jan</text>
+    <text x="181.0" y="200" class="muted">Feb</text>
     
     
     
-    <text x="196.7" y="200" class="muted">Feb</text>
-    
-    
-    
-    <text x="259.5" y="200" class="muted">Mar</text>
-    
-    
-    
-    
-    <text x="338.0" y="200" class="muted">Apr</text>
-    
-    
-    
-    <text x="400.8" y="200" class="muted">May</text>
+    <text x="243.8" y="200" class="muted">Mar</text>
     
     
     
     
-    <text x="479.2" y="200" class="muted">Jun</text>
+    <text x="322.3" y="200" class="muted">Apr</text>
     
     
     
-    <text x="542.0" y="200" class="muted">Jul</text>
-    
-    
-    
-    <text x="604.8" y="200" class="muted">Aug</text>
+    <text x="385.1" y="200" class="muted">May</text>
     
     
     
     
-    <text x="683.3" y="200" class="muted">Sep</text>
+    <text x="463.5" y="200" class="muted">Jun</text>
     
     
     
-    <text x="746.1" y="200" class="muted">Oct</text>
+    <text x="526.3" y="200" class="muted">Jul</text>
     
     
     
-    <text x="808.9" y="200" class="muted">Nov</text>
+    <text x="589.1" y="200" class="muted">Aug</text>
     
     
-    <text class="muted" x="856" y="78" text-anchor="end">weekly totals · auto-updated · 2026-11-21</text>
+    
+    
+    <text x="667.6" y="200" class="muted">Sep</text>
+    
+    
+    
+    <text x="730.4" y="200" class="muted">Oct</text>
+    
+    
+    
+    <text x="793.2" y="200" class="muted">Nov</text>
+    
+    
+    
+    <text class="muted" x="856" y="78" text-anchor="end">weekly totals · auto-updated · 2026-11-22</text>
   </g>
 </svg>
